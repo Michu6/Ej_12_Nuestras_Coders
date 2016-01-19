@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 20px 0px 0px 20px;
+}
+
+h1 {
+	font: 20px Arial;
+	font-weight: 700;
+	margin-bottom: 10px;
+	width: 160px;
+}
+
+h2 {
+	font: 15px Arial;
+	font-weight: 700;
+	color: white;
+	position: relative;
+	text-align: right;
+	top: -30px;
+	right: 10px;
+}
+
+.borde {
+	border-bottom: 3px solid black;
+	width: 130px;
+}
+
+.caja {
+	margin-top: 20px;
+	margin-left: 20px;
+	display: inline-block;
+}
+
+.foto {
+	width: 211px;
+	height: 211px;
+	display: inline-block;
+	margin-right: 30px;
+}
